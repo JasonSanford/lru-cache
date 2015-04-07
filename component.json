@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": ["index.js"],
   "dependencies": {
-    "guille/ms.js": "*"
+    "rauchg/ms.js": "*"
   },
   "development": {
     "component/assert": "*",
